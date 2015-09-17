@@ -114,7 +114,7 @@
     "iso_checksum": "7bb8c1c23a4fdef93e6f0a6347d570e5764d0b38",
     "iso_name": "CentOS-6.7-x86_64-bin-DVD1.iso",
     "iso_path": "iso",
-    "iso_url": "http://mirrors.kernel.org/centos/6.7/isos/x86_64/CentOS-6.7-x86_64-bin-DVD1.iso",
+    "iso_url": "http://ftp.riken.jp/Linux/centos/6.7/isos/x86_64/CentOS-6.7-x86_64-bin-DVD1.iso",
     "no_proxy": "{{env `no_proxy`}}",
     "rsync_proxy": "{{env `rsync_proxy`}}",
     "ssh_password": "vagrant",
